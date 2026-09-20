@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NightDesk",
+      "hasCanvas": false,
+      "bodyTextLen": 1587,
+      "bodyTextHash": "279c0ac82b677f9406ff933a94888f4b6ba12efd63f6ac24da3a0f048127ade4",
+      "bodyTextPrefix": "NightDesk OVERNIGHT YOUTUBE Desk Board Playbook Channel SUN, SEP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NightDesk",
+      "hasCanvas": false,
+      "bodyTextLen": 1557,
+      "bodyTextHash": "95f1c3375cf21a233a49dd65a5123b6958879c367e7b850136b18f4c851a30c8",
+      "bodyTextPrefix": "NightDesk 07:44 PM OPEN ASSIGNMENT DESK You never have to open a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
